@@ -1,0 +1,61 @@
+[
+    {
+        "name": "bot",
+        "path": "common",
+        "repo": "hentaplugins/bot",
+        "version": "0.5.0"
+    },
+    {
+        "name": "users",
+        "path": "common",
+        "repo": "hentaplugins/users",
+        "version": "0.5.0"
+    },
+    {
+        "name": "db",
+        "path": "common",
+        "repo": "hentaplugins/db",
+        "version": "0.5.0"
+    },
+    {
+        "name": "temp",
+        "path": "common",
+        "repo": "hentaplugins/temp",
+        "version": "0.5.0"
+    },
+    {
+        "name": "botcmd",
+        "path": "common",
+        "repo": "hentaplugins/botcmd",
+        "version": "0.5.0"
+    },
+    {
+        "name": "msgParams",
+        "path": "common",
+        "repo": "hentaplugins/msgParams",
+        "version": "0.5.0"
+    },
+    {
+        "name": "ctx",
+        "path": "common",
+        "repo": "hentaplugins/ctx",
+        "version": "0.5.0"
+    },
+    {
+        "name": "nicknames",
+        "path": "common",
+        "repo": "hentaplugins/nicknames",
+        "version": "0.5.0"
+    },
+    {
+        "name": "mention",
+        "path": "common",
+        "repo": "hentaplugins/mention",
+        "version": "0.5.0"
+    },
+    {
+        "name": "commandNotFound",
+        "path": "mybot",
+        "version": "0.5.0"
+    }
+]

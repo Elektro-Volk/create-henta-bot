@@ -1,0 +1,20 @@
+{
+ "name": "create-henta-bot",
+ "version": "1.0.0",
+ "description": "HENTA bot generator",
+ "main": "src/index.js",
+ "bin": {
+  "create-vk-app": "./bin/create-henta-bot.js"
+ },
+ "scripts": {
+  "start": "node ./bin/create-henta-bot.js"
+ },
+ "author": "Elektro-Volk",
+ "license": "MIT",
+ "dependencies": {
+  "console-menu": "^0.1.0",
+  "fs-extra": "^8.1.0",
+  "henta": "^1.2.3",
+  "sequelize": "^5.11.0"
+ }
+}

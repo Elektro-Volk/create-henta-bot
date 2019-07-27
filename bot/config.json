@@ -1,0 +1,8 @@
+{
+    "vk_groupid": 0,
+    "admin_id": 0,
+    "mentions": [ "пуся" ],
+    "user_error": "Похоже наши гномы сделали ошибку. Мы уже оповестили администратора бота.",
+    "log_new_message": true,
+    "send_name": true
+}
